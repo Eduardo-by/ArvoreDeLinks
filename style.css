@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Poppins:wght@300&display=swap');
+
+body{
+    font-family: 'Abyssinica SIL', serif;
+}
+
+.font-color{
+    color: #BB99DD;
+}
+.lista{
+    border: #BB99DD 3px solid;
+    border-radius: 3%;
+}
+
+a{
+    color: #BB99DD;
+    text-decoration: none;
+}
+a:hover{
+    color: #BB99DD;
+}
+.icone{
+	display: inline-block;
+	font-size: 15px;
+	color: #ffffff;
+	padding: 16px 35px 14px 20px;
+	border-radius: 2px;
+	margin-right: 6px;
+}
